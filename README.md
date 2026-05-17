@@ -93,34 +93,7 @@ Passionate about building scalable web applications, REST APIs, booking systems,
 
 ---
 
-# 🚀 Featured Projects
 
-## 🏗️ Melbourne Geotechnical
-Engineering management platform for scheduling, quotations, and consultation management.
-
-**Tech Stack:** Laravel, MySQL, JavaScript, VPS Hosting
-
-🔗 https://www.melbournegeotech.com.au/
-
----
-
-## 💈 Barbertime.nz
-Complete barber shop booking and management system with Stripe integration.
-
-**Tech Stack:** Laravel, Stripe, MySQL, Tailwind CSS
-
-🔗 https://barbertime.co.nz/
-
----
-
-## 🐋 Whale Watching Booking Platform
-Tourism booking platform with secure booking and payment functionality.
-
-**Tech Stack:** Laravel, PayHere, MySQL
-
-🔗 https://whalewatchingmirissa.com/
-
----
 
 # 📊 GitHub Stats
 
